@@ -1,48 +1,47 @@
 ---
 home: true
-layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
-projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
-
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
-
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
-
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
-
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
-
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
+title: 我的首页
+heroText: false
+footer: 南极光的眼泪是灰色的
 ---
 
-这是一个博客主页的案例。
+## 一、基础阶段
+- 学习目标：熟悉项目开发流程，熟练掌握HTML、CSS、JavaScript等前端基础技术，能够独立搭建简单的页面和交互效果。
+- 学习内容：
+    - HTML：学习HTML的基本语法、常用标签及属性，理解网页结构。
+    - CSS：学习CSS的基本语法、选择器、盒模型、布局方式等，掌握页面样式设计。
+    - JavaScript：学习JavaScript的基本语法、变量、数据类型、函数、DOM操作等，理解JavaScript在前端中的作用。
+    - 开发工具：熟悉并掌握至少一种代码编辑器（如Visual Studio Code、Sublime Text等）和浏览器开发者工具。
 
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
+## 二、专业阶段
+- 学习目标：深入理解前端技术原理，掌握前端框架和库的使用，能够开发具有一定复杂度的前端项目
+- 学习内容：ES6+：学习ECMAScript 2015及以后版本的新特性，提升JavaScript编程能力。
+- 前端框架：选择并深入学习一个或多个前端框架（如React、Vue、Angular等），掌握其组件化开发、状态管理、路由管理等核心概念。
+- 前端库：学习并使用前端库（如jQuery、Axios等），提高开发效率。
+- CSS预处理器：学习Sass、Less等CSS预处理器，提升CSS的编写效率和可维护性。
+- 构建工具：学习Webpack等前端构建工具，掌握模块打包、资源优化等技能。
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
+## 三、实战阶段
+- 学习目标：通过实际项目提升开发能力，理解前后端分离的开发模式，掌握前端性能优化技巧。
+- 学习内容：
+- 项目实践：参与或独立开发前端项目，从需求分析、设计、开发到测试的全过程。
+- 前后端分离：理解RESTful API、Ajax等前后端交互方式，掌握前后端分离的开发模式。
+- 前端性能优化：学习前端性能优化的方法和技巧，如代码分割、懒加载、缓存策略等。
+- 版本控制：学习Git等版本控制工具，掌握代码版本管理的基本操作。
+
+## 四、进阶阶段
+- 学习目标：深入研究前端技术栈，掌握全栈开发技能，拓展前端技术应用领域。
+- 学习内容：
+    - 全栈开发：学习Node.js等后端技术，掌握全栈开发技能。
+    - 前端安全：了解前端安全知识，如XSS攻击、CSRF攻击及防御措施。
+    - 前端工程化：学习前端工程化知识，如代码规范、持续集成/持续部署（CI/CD）等。
+    - 前端新技术：关注并学习前端新技术（如PWA、WebAssembly、Flutter for Web等），拓展前端技术应用领域。
+
+## 五、学习资源推荐
+- 在线课程：慕课网、网易云课堂、腾讯课堂等平台上有丰富的前端学习资源。
+- 官方文档：各前端框架、库的官方文档是学习的重要参考。
+- 技术社区：GitHub、Stack Overflow、SegmentFault等技术社区是交流和学习的好去处。
+- 书籍：《JavaScript权威指南》、《React实战》、《Vue.js实战》等书籍是深入学习前端技术的经典之作。
+
+总之，前端学习路线是一个循序渐进的过程，需要不断学习和实践才能掌握扎实的技能。希望以上内容能对你有所帮助！
